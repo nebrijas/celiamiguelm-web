@@ -2,7 +2,7 @@
 
 La primera actividad dirigida del curso Periodismo de Datos II: Herramientas digitales para la visualización y presentación de datos consiste en realizar un análisis crítico de un trabajo de visualización de datos.
 
-## Comentario crítico sobre un reportaje de datos publicado en el diario *El Mundo*
+## Comentario crítico sobre un reportaje de datos publicado en el diario El Mundo
 
 [*Del cuerno de rinoceronte al guacamayo: Así opera en España el mercado negro de animales protegidos que sobrevive a la pandemia*](https://www.elmundo.es/ciencia-y-salud/medio-ambiente/2021/12/30/61bcd569fc6c83a2308b459a.html). Así reza el título de la primera de las tres entregas del reportaje que radiografía el panorama de la **fauna amenazada** por el tráfico ilegal, la caza y la comercialización ilícita. Lo analizamos a continuación.
 
