@@ -11,7 +11,9 @@ A través de este [enlace](https://www.elmundo.es/ciencia-y-salud/medio-ambiente
 1. #### Los puntos fuertes
 
 Uno de los principales aciertos del trabajo reside en **la temática**. Escoger un asunto que opera al margen de la legalidad, pero que de facto afecta a la sociedad en su conjunto, me parece una gran opción en tanto que arraiga en la esencia del periodismo: trasciende la presentación de la noticia para embarcarse en la búsqueda de la misma. <br>
+
 Además, pese a la severidad de la temática y la magnitud de los datos analizados, considero acertada **la forma de exponer la información** a partir de una conversación con dos agentes policiales. Sin duda, una charla cualquiera aterriza una información que, de exponerse en bruto, podría resultar abrumadora e incluso inalcanzable. <br>
+
 En definitiva, creo que el trabajo investigativo es muy bueno y riguroso: se expone la metodología, las fuentes utilizadas y se traduce la interpretación de la información de una manera asequible. 
 
 2. #### Los puntos débiles
