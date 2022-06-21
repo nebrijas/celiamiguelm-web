@@ -18,7 +18,7 @@ En definitiva, creo que el trabajo investigativo es muy bueno y riguroso: se exp
 
 Aunque se aprecian esfuerzos para que la visualización de los datos sea fácil y comprensible, he de señalar que **la interpretación de las infografías, mapas interactivos y gráficos utilizados no siempre resulta sencilla**. La agradecida liviandad del texto, en mi opinión, contrasta con la a veces demasiado abrumadora información de los gráficos. Creo que el afán de simplificar la información ha conducido a una **abstracción excesiva** que quizá obliga a repasar la información visual más de una vez. Verbigracia: en la primera infografía, la leyenda se camufla con el título del propio gráfico, cuestión que, personalmente, me ha dificultado su interpretación. Estéticamente queda bonito, pero en la práctica puede ser confuso.
 
-![Infografía citada](https://e00-elmundo.uecdn.es/elmundo/2021/graficos/dic/s5/b-dos-mercados-470.jpg =250x250) <br>
+![Infografía citada](https://e00-elmundo.uecdn.es/elmundo/2021/graficos/dic/s5/b-dos-mercados-470.jpg) <br>
 
 3. ### Balance global
 
