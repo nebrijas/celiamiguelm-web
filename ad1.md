@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Actividad Dirigida 1
 
 La primera actividad dirigida del curso Periodismo de Datos II: Herramientas digitales para la visualización y presentación de datos consiste en realizar un análisis crítico de un trabajo de visualización de datos.
@@ -24,11 +23,3 @@ Aunque se aprecian esfuerzos para que la visualización de los datos sea fácil 
 3. ### Balance global
 
 En términos generales, **el trabajo es muy bueno**: se consigue sintetizar cantidades ingentes de datos democratizando el acceso a la verdad subyacente tras estas actividades ilegales.
-=======
-# Repositorio de actividades 
-
-Índice de las actividades realizadas:
-
-- [Actividad dirigida 1](ad1.md)
-- [Actividad dirigida 2](ad2.md)
->>>>>>> 0ac322c9534c08786b0d9594141e9e2fd79f3165
