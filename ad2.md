@@ -19,8 +19,8 @@ denominé ad2.md**.
 3. En la dirección https://github.com/settings/tokkens **generé un nuevo 
 token** al que denominé “PD2”
 
-*Habiendo concluido los primeros pasos, abrí la terminal de mi MacBook Pro 
-y proseguí con el ejercicio*
+Habiendo concluido los primeros pasos, abrí la terminal de mi MacBook Pro 
+y proseguí con el ejercicio.
 
 ## El trabajo desde la terminal
 
@@ -45,7 +45,8 @@ necesario: escribir **git confing user.email
 cmiguelma@alumnos.nebrija.es**
 
 5. El quinto punto me obligó a salir momentáneamente de la terminal: [debí 
-regresar al sitio web](https://github.com/settings/tokkens) incluido en el 
+regresar al sitio web](https://github.com/nebrijas/celiamiguelm-web) 
+incluido en el 
 punto 3 para copiar el token creado. Este constituía la contraseña que 
 debía utilizar en el siguiente paso.
 
